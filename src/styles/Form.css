@@ -1,0 +1,16 @@
+.form__container {
+    background: white;
+    border-radius: 10px;
+    padding: 20px;
+    max-width: 600px;
+    text-align: left;
+    margin: 0 auto;
+}
+
+.form__container input {
+    border: 1px solid lightgrey;
+}
+
+.form__button {
+    margin: 10px 0;
+}
